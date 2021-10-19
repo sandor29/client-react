@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zapatos de Cuero",
+        "precio": 200,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Pantalones de Hombre",
+        "precio": 345,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Blusas de Mujer",
+        "precio": 420,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Zapatos",
+        "precio": 200,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/1.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Pantalones",
+        "precio": 345,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/2.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Blusas",
+        "precio": 420,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/3.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Zapatos",
+        "precio": 200,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/1.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Pantalones",
+        "precio": 345,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/2.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Blusas",
+        "precio": 420,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/3.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Zapatos",
+        "precio": 200,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/1.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Pantalones",
+        "precio": 345,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/2.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Blusas",
+        "precio": 420,
+        "detalles": "Lo mejor de la semana, productos nuevos y baratos de poco uso...",
+        "img": "images/3.jpg"
+    }
+]

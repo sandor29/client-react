@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components { 
+
+    .s-page {        
+        @apply container mx-auto my-16;
+    }
+    .s-grid {
+        @apply grid gap-4 m-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4;
+    } 
+    .s-center {        
+        @apply flex justify-center items-center h-screen;
+    }
+    .s-transform {
+        @apply fixed transform transition-all duration-75 ease-in-out overflow-y-auto z-50;        
+    }
+    .s-opacity {
+        @apply fixed inset-0 opacity-10 bg-black z-40;
+    }
+    .s-input {        
+        @apply border-b p-3 w-full focus:outline-none focus:border-blue-500;
+    }
+    .s-btn {        
+        @apply flex border rounded-full m-4 px-4 py-2 uppercase focus:border-blue-500;
+    }
+}
